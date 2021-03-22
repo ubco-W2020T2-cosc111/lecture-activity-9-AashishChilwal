@@ -157,8 +157,8 @@ First array after sorting each row:
 If you named your files as suggested above, you do not have to do anything in this section.
 If you named your files differently, please update the links below to make sure they work.
 
-[Task 1 Java file](./task1.java)
+[Task 1 Java file](./Task1.java)
 
-[Task 2 Java file](./task2.java)
+[Task 2 Java file](./Task2.java)
 
-[Task 3 Java file](./task3.java)
+[Task 3 Java file](./Task3.java)
